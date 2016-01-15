@@ -12,7 +12,7 @@ angular.module('lunarc.article').factory('Enum', [function() {
       'DRAFT': 'Draft',
       'PUBLISH': 'Publish',
       'PENDING': 'Pending',
-      'TRASH': 'Trash',
+      'TRASH': 'Trash'
     }
   };
 }]);
